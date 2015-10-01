@@ -1,2 +1,5 @@
-# shopify_challenge
+# Shopify Challenge
 
+A challege I did for the first part of a technical interview at shopify.
+
+Was short but had a lot of fun doing it!
