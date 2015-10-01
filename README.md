@@ -1,4 +1,4 @@
-# Shopify Challenge
+# Shopicruit Shopify Challenge
 
 
 
